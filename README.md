@@ -13,5 +13,5 @@ const token = await auth.getAccessToken()
 Credits
 Thank you to:
 
-- 
+- https://github.com/acheong08/OpenAIAuth original python implementation
 - [rawandahmad698] for the reverse engineering of the protocol
